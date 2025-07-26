@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Subhash Medipalli</h1>
-<h3 align="center">🚀 Azure Data Engineer | ML & Analytics Enthusiast | Cloud-Native Architect</h3>
+<h3 align="center">🚀 Data Engineer | ML & Analytics Enthusiast | Cloud-Native Architect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhash-medipalli/" target="_blank">

@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Subhash Medipalli</h1>
-<h3 align="center">🚀 Data Engineer | ML & Analytics Enthusiast | Cloud-Native Architect</h3>
+<h3 align="center">🚀 AI Data Engineer | Cloud-Native Architect | ML Pipeline Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhash-medipalli/" target="_blank">
@@ -17,74 +17,34 @@
 
 ### 🧑‍💻 About Me
 
-- 🌐 **Data Engineer** @ UPS, focused on Azure-based data platforms  
-- 🛠️ Designing **ETL pipelines**, building **real-time dashboards**, and deploying **ML models**
-- 📦 Migrating legacy systems to **Azure Data Lake**, **Synapse**, and **Databricks**
-- 🔄 Currently exploring **dbt**, **MLflow**, and **data lineage in cloud systems**
-- 🧠 Always learning — **AI, Spark optimization, CI/CD automation**
-- 🏀 Fun fact: I play **professional basketball**
+- 💼 Senior **Data Engineer** with 6+ years of experience in finance and healthcare analytics  
+- ☁️ Built enterprise-scale **cloud-native data platforms** on **Azure**, **AWS**, and **GCP**  
+- 🏗️ Designed scalable **ETL/ELT pipelines**, **real-time streaming** systems, and **ML features** using PySpark and SQL  
+- 🔁 Migrated legacy workloads to **Azure Data Lake**, **AWS S3 + Glue**, and **GCP BigQuery**  
+- ⚙️ Automated CI/CD pipelines for ML & DataOps using **GitHub Actions**, **Azure DevOps**, and **AWS CodePipeline**  
+- 🔍 Passionate about **data governance**, **streaming analytics**, and **ML observability**  
+- 🧠 Currently exploring **dbt**, **Apache Hudi**, and **multi-cloud optimization**
 
 ---
 
 ### ⚒️ Tech Stack
 
-#### ☁️ Cloud Platforms
-`Azure` `AWS` `GCP`
+#### ☁️ Cloud Platforms & Services
+`Azure Data Factory` `Azure Synapse` `Azure Databricks` `Azure Event Hubs` `Azure Logic Apps`  
+`AWS Glue` `AWS Lambda` `Amazon Redshift` `Amazon S3` `Amazon Kinesis` `Lake Formation` `Step Functions`  
+`GCP BigQuery` `GCP Dataflow` `GCP Composer` `Cloud Storage` `Vertex AI` `Pub/Sub`
 
 #### 🛠️ Data Engineering
-`Azure Data Factory` `Azure Databricks` `Airflow` `Delta Lake` `Kafka` `dbt`
+`Databricks` `Delta Lake` `Kafka` `Airflow` `dbt` `Apache Spark` `PySpark` `SQL CTEs` `Watermark Tables`
 
 #### 💾 Databases
-`SQL Server` `PostgreSQL` `MySQL` `Snowflake` `MongoDB`
+`SQL Server` `Azure SQL DB` `PostgreSQL` `MySQL` `Snowflake` `MongoDB` `Oracle DB`
 
 #### 📊 BI & Visualization
-`Power BI` `Tableau` `Looker` `Excel`
+`Power BI` `Tableau` `Looker` `Excel` `Microsoft Fabric`
 
-#### 🧠 ML & Deep Learning
-`scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `CNN` `LSTM` `AdaFace`
+#### 🧠 Machine Learning & MLOps
+`TensorFlow` `XGBoost` `PyTorch` `Scikit-learn` `MLflow` `Feature Engineering` `Model Deployment` `Monitoring`
 
 #### 🧑‍💻 Programming
-`Python` `SQL` `PySpark` `Bash` `HTML/CSS` `JavaScript`
-
-#### 🔐 DevOps & Tools
-`Git` `GitHub Actions` `Azure DevOps` `Docker` `Jupyter` `VS Code`
-
----
-
-### 🏆 Certifications
-
-- 📜 Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
-- 📊 Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
-
----
-
-### 📂 Highlight Projects
-
-#### 📍 [Campus Compass](https://github.com/Subhash-medipalli/Campus-Compass)
-> 🥇 IEEE ClarkHack Winner | Smart Parking + Navigation  
-> 🔍 Used VGG19, OpenCV, Google Maps API  
-> 📌 Achieved 99.5% accuracy in object detection and dynamic routing
-
-#### 📈 Adidas Sales Dashboard
-> ⚡ Data pipeline with PySpark & SQL  
-> 📊 Tableau dashboard showcasing year-over-year growth and product insights
-
-#### ⚡ EV Infrastructure Impact Tracker
-> 🚗 Analyzed regional EV trends for policy and infrastructure planning  
-> 📉 Structured datasets using Tableau Prep & SQL Server
-
----
-
-### 📫 Let’s Connect
-
-- 💌 **Email**: medipallisubhash04@gmail.com  
-- 🌐 **LinkedIn**: [subhash-medipalli](https://www.linkedin.com/in/subhash-medipalli)  
-- 💻 **GitHub**: [@Subhash-medipalli](https://github.com/Subhash-medipalli)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhash-medipalli&show_icons=true&theme=default&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhash-medipalli&theme=default" />
-</p>
+`Python` `SQL` `Spark SQL` `Bash`

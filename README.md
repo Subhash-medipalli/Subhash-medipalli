@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Senior **Data Engineer** with 6+ years of experience in finance and healthcare analytics  
+- 💼 Senior **AI Data Engineer** with 6+ years of experience in finance and healthcare analytics  
 - ☁️ Built enterprise-scale **cloud-native data platforms** on **Azure**, **AWS**, and **GCP**  
 - 🏗️ Designed scalable **ETL/ELT pipelines**, **real-time streaming** systems, and **ML features** using PySpark and SQL  
 - 🔁 Migrated legacy workloads to **Azure Data Lake**, **AWS S3 + Glue**, and **GCP BigQuery**  

@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Senior **AI  Engineer** with 10+ years of experience in finance and healthcare analytics  
+- 💼  **AI  Engineer** with 5+ years of experience in finance and healthcare analytics  
 
 
 ### 🏆 Certifications
